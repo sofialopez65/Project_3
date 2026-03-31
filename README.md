@@ -6,6 +6,5 @@ User Guide:
 - [GanttChart](https://github.com/sofialopez65/Project_3/blob/main/CIVE202_Spring2026_G21_Project3_GanttChart.pdf)
 - [TimeSheet](https://github.com/sofialopez65/Project_3/blob/main/CIVE202_Spring2026_G21_Project3_Timesheet.pdf)
 - [Python File](https://github.com/sofialopez65/Project_3/blob/main/CIVE202_Spring%202026_Group21_Project3_PythonCode.ipynb)
-- 
-- 
+- [Technical Report](https://github.com/sofialopez65/Project_3/blob/main/CIVE202_Spring2026_G21_Project3_TechnicalReport.pdf)
 
